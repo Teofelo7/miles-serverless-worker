@@ -1,0 +1,6 @@
+runpod
+kokoro-onnx
+soundfile
+numpy
+torch
+git+https://github.com/frothywater/kanade-tokenizer.git
